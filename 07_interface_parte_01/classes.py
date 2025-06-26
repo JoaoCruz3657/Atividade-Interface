@@ -1,8 +1,3 @@
-# Interface é uma espécie de "lei" ou regras definidas pelo programador, afim de fazer uma classe obedecer essas regras.
-# Se usa uma interface para garantir a integridade do programa.
-
-# classe abstrata é uma classe onde não dá para instanciar um objeto.
-
 from abc import ABC
 from abc import abstractmethod
 
